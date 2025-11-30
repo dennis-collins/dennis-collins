@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Dennis!
 
-<!--
-**dennis-collins/dennis-collins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Problem-solving developer in training with a background in teaching. Currently open for LIA/internship opportunities in the Stockholm area. Skilled in front-end and full-stack technologies including HTML, CSS, JavaScript, React, Node.js, and AWS. Experienced in collaboration, organisation, and managing complexity, developed over 12 years as a teacher and state examiner. 
 
-Here are some ideas to get you started:
+Passionate about continuous learning, building efficient systems, and creating user-friendly solutions. Currently seeking an internship (LIA) to apply technical skills and grow in a professional developer environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Express
+- AWS
+
+***
+## Contacting Me
+
+Email: dennis.codes@protonmail.com
